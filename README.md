@@ -12,4 +12,4 @@
 #### Machine learning models used 
 - linear regression
 - k-nearest neighbors
-- ...
+- neural network using regression
