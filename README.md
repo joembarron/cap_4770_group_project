@@ -31,4 +31,4 @@ We consolidated the code for each of the data science lifecycle stages into Jupy
 #### Machine learning models used 
 - linear regression
 - k-nearest neighbors
-- ...
+- neural network using regression
