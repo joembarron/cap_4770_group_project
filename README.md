@@ -15,10 +15,10 @@ If the user's feeling toward the book agreed with this rating, they could click 
 
 ### Project Structure 
 
-We consolidated the code for each of the data science lifecycle stages into Jupyter notebooks. 
+We consolidated the code for each of the data science lifecycle stages(excluding model deployment) into Jupyter notebooks. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b02f7bd0-657b-4707-a854-e5f27e55b7cb"/>
+  <img src="https://github.com/user-attachments/assets/e87dbf41-052e-43ff-8861-ade4679ae5c8"/>
 </p>
 
 #### Group Members
@@ -31,4 +31,8 @@ We consolidated the code for each of the data science lifecycle stages into Jupy
 #### Machine learning models used 
 - linear regression
 - k-nearest neighbors
-- neural network using regression
+- random forests
+- histogram gradient boosting regressor
+- neural network
+- naive bayes
+- SVM
